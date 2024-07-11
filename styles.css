@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.stApp {
+    max-width: 1000px; /* Set max width for the app */
+    margin: 0 auto; /* Center align the app */
+}
+
+.stTitle {
+    color: #000000; /* Title color */
+}
+
+.stButton button {
+    background-color: #007bff; /* Blue button */
+    color: #ffffff; /* Button text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Button padding */
+    border-radius: 5px; /* Rounded button corners */
+    cursor: pointer; /* Cursor on hover */
+    transition: background-color 0.3s; /* Smooth button hover effect */
+}
+
+.stButton button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+.stText {
+    color: #000000; /* Text color */
+    font-size: 16px; /* Text size */
+}
+
+.stTextArea textarea {
+    padding: 10px; /* Text area padding */
+    border-radius: 5px; /* Rounded text area corners */
+    border: 1px solid #ced4da; /* Border color */
+}
+
+.stFileUploader div {
+    background-color: #ffffff; /* White background inside file uploader */
+    border: 1px dashed #adb5bd; /* Dashed border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+.stFileUploader div label {
+    font-size: 16px; /* Label font size */
+    color: #495057; /* Label color */
+}
+
+.stFileUploader div:hover {
+    border-color: #0056b3; /* Darker border on hover */
+}
+
+.stFileUploader div label:hover {
+    color: #0056b3; /* Darker label color on hover */
+}
+
+.stFileUploader div p {
+    font-size: 14px; /* Text font size */
+    color: #6c757d; /* Text color */
+}
+
+.stTable td {
+    padding: 8px; /* Cell padding */
+}
+
+.stTable th {
+    background-color: #007bff; /* Table header background color */
+    color: #ffffff; /* Table header text color */
+    padding: 8px; /* Header cell padding */
+}
+
+.stTable tr:nth-child(even) {
+    background-color: #f2f2f2; /* Alternate row background color */
+}
+
+.stTable tr:hover {
+    background-color: #cce5ff; /* Light blue on hover */
+}
