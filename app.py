@@ -126,6 +126,8 @@ def create_form_2():
         ######################################
         "Pune Municipal Corporation",
         "Pimpri Chinchwad Municipal Corporation",
+        "Nagpur Municipal Corporation",
+        "Pune Metropolitan Region Development Authority (PMRDA)
 
     ]
 
