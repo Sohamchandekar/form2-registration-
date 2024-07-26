@@ -112,7 +112,7 @@ def create_form_2():
     planning_authorities = [
         "MUNICIPAL CORPORATION OF GREATER MUMBAI (MCGM)",
         "Brihanmumbai Municipal Corporation (BMC)",
-        "City and Industrial Development Corporation (CIDCO)",
+        "City and Industrial Development Corporation of Maharashtra Limited (CIDCO)",
         "Panvel Municipal Corporation",
         "Maharashtra Housing and Area Development Authority (MHADA)",
         "Slum Rehabilitation Authority (SRA)",
